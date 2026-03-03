@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # StyleAI - AI-Powered Fashion Styling Advisor
 
 StyleAI is a professional web application that leverages Groq's LLaMA 3.3 70B AI model to provide comprehensive personal styling recommendations. It analyzes user photos to detect skin tone and generates gender-specific fashion advice, including outfit ideas, color palettes, and curated shopping links.
@@ -118,7 +118,3 @@ For issues:
 1. Check Groq documentation: [groq.com/docs](https://groq.com/docs)
 2. Ensure Python 3.8+ is installed
 3. Verify dependencies: `pip list`
-=======
-# StyleAI-AI-Powered-Fashion-Advisor
-AI-powered fashion styling advisor using Groq LLaMA 3.3 70B. Performs skin tone analysis and generates personalized outfit recommendations with curated shopping links.
->>>>>>> eda0476f251e80201f5074f6ba40759f1e9ec71b
