@@ -109,8 +109,7 @@ app.run(debug=True, host='127.0.0.1', port=5001)  # Change 5000 to 5001
 - **Flask:** Lightweight Python web framework
 
 ## License
-
-This project is open source.
+This project is licensed under the MIT License.
 
 ## Support
 
